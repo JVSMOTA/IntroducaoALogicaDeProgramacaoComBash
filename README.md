@@ -8,6 +8,29 @@
 
 Este repositório contém os códigos de exercícios do ChatGPT 3 como uma Introdução à Programação com com Bash.
 
+## Como rodar os Scripts
+
+1. __Salve Seu Script:__
+   - Certifique-se de salvar seu script com uma extensão .sh. Por exemplo, `meu_script.sh.`
+
+2. __Permissões de Execução:__
+   - Antes de executar o script, é necessário conceder permissões de execução. Você pode fazer isso com o comando `chmod`.
+
+    ```bash
+    chmod +x meu_script.sh
+    ```
+
+3. __Execução do Script:__ 
+   - Agora, você pode executar seu script usando o seguinte comando:
+
+    ```bash
+    ./meu_script.sh
+    ```
+
+   - Certifique-se de estar no diretório onde o script está localizado ou forneça o caminho completo se estiver em outro diretório.
+
+Após executar esses passos, o script será executado e você verá a saída no terminal. 
+
 ## Organização do Repositório
 
 O repositório está organizado por capítulos e exercícios. Cada diretório corresponde a um capítulo do livro, e dentro de cada diretório, você encontrará os códigos dos exercícios numerados.
