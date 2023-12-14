@@ -14,8 +14,8 @@ O repositório está organizado por capítulos e exercícios. Cada diretório co
 
 ```txt
 ├── Exercicios
-│   ├── Exercicio01.py
-│   ├── Exercicio02.py
+│   ├── Exercicio01.sh
+│   ├── Exercicio02.sh
 │── ...
 ```
 
